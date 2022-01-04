@@ -1,0 +1,14 @@
+    <project>
+      <modelVersion>4.0.0</modelVersion>
+     
+      <groupId>org.null.decrypter</groupId>
+      <artifactId>decrypter</artifactId>
+      <version>1.0.0</version>
+	<properties>
+	   <maven.compiler.source>15</maven.compiler.source>
+	   <maven.compiler.target>15</maven.compiler.target>
+	</properties>
+
+    </project>
+
+
